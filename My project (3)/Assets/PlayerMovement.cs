@@ -5,6 +5,17 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    public SpriteRenderer SpriteRenderer;
+
+    public Sprite Standing;
+    public Sprite Crouching;
+
+    public BoxCollider2D Collider;
+
+    public Vector2 StandingSize;
+    public Vector2 CrouchingSize;
+
+
     private float horizontal;
     private float speed = 8f;
     private float jumpingPower = 16f;
@@ -15,7 +26,13 @@ public class PlayerMovement : MonoBehaviour
 [SerializeField] private Transform groundCheck;
 [SerializeField] private LayerMask groundLayer;
 
+void Start()
+{
+    SpriteRenderer = GetComponent<SpriteRenderer>();
+    SpriteRenderer.sprite = Standing;
 
+    StandingSize = Collider.size;
+}
     // Update is called once per frame
     void Update()
     {
@@ -35,6 +52,18 @@ public class PlayerMovement : MonoBehaviour
 
 
         Flip();
+
+        if ( Input.GetKeyDown(KeyCode.C))
+        {
+            SpriteRenderer.sprite = Crouching;
+            Collider.size = CrouchingSize;
+        }
+
+        if ( Input.GetKeyUp(KeyCode.C))
+        {
+            SpriteRenderer.sprite = Standing;
+            Collider.size = StandingSize;
+        }
     }
 
 
@@ -60,5 +89,7 @@ public class PlayerMovement : MonoBehaviour
             transform.localScale = localScale;
         }
     }
+
+    
 }
 
