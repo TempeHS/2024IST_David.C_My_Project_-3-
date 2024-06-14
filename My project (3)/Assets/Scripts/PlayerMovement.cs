@@ -53,13 +53,13 @@ void Start()
 
         Flip();
 
-        if ( Input.GetKeyDown(KeyCode.C))
+        if ( Input.GetKeyDown(KeyCode.S))
         {
             SpriteRenderer.sprite = Crouching;
             Collider.size = CrouchingSize;
         }
 
-        if ( Input.GetKeyUp(KeyCode.C))
+        if ( Input.GetKeyUp(KeyCode.S))
         {
             SpriteRenderer.sprite = Standing;
             Collider.size = StandingSize;
