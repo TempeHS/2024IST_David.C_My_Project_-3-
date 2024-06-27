@@ -1,39 +1,21 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 
 public class PlayerMovement : MonoBehaviour
 {
-    public SpriteRenderer SpriteRenderer;
-
-    public Sprite Standing;
-    public Sprite Crouching;
-
-    public BoxCollider2D Collider;
-
-    public Vector2 StandingSize;
-    public Vector2 CrouchingSize;
-
-
     private float horizontal;
     private float speed = 8f;
     private float jumpingPower = 16f;
     private bool isFacingRight = true;
 
 
-[SerializeField] private Rigidbody2D rb;
-[SerializeField] private Transform groundCheck;
-[SerializeField] private LayerMask groundLayer;
 
-void Start()
-{
-    SpriteRenderer = GetComponent<SpriteRenderer>();
-    SpriteRenderer.sprite = Standing;
 
-    StandingSize = Collider.size;
-}
-    // Update is called once per frame
+    [SerializeField] private Rigidbody2D rb;
+    [SerializeField] private Transform groundCheck;
+    [SerializeField] private LayerMask groundLayer;
+
+
     void Update()
     {
         horizontal = Input.GetAxisRaw("Horizontal");
@@ -52,18 +34,6 @@ void Start()
 
 
         Flip();
-
-        if ( Input.GetKeyDown(KeyCode.S))
-        {
-            SpriteRenderer.sprite = Crouching;
-            Collider.size = CrouchingSize;
-        }
-
-        if ( Input.GetKeyUp(KeyCode.S))
-        {
-            SpriteRenderer.sprite = Standing;
-            Collider.size = StandingSize;
-        }
     }
 
 
@@ -89,7 +59,4 @@ void Start()
             transform.localScale = localScale;
         }
     }
-
-    
 }
-
