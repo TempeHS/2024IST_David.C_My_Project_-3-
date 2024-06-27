@@ -276,6 +276,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1665555880231912430}
   - component: {fileID: 4248337166857669504}
+  - component: {fileID: 1313439480818922327}
   m_Layer: 7
   m_Name: Spike Row Obstacle
   m_TagString: Obstacle
@@ -328,6 +329,21 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 1
   m_Constraints: 6
+--- !u!114 &1313439480818922327
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5402731587646690088}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 844ba029fb179dc4688cd64638a41797, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  obstaclePrefabs: []
+  obstacleSpawnTime: 2
+  obstacleSpeed: 1
 --- !u!1 &8806263425610599286
 GameObject:
   m_ObjectHideFlags: 0

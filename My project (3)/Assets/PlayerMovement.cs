@@ -8,6 +8,15 @@ public class PlayerMovement : MonoBehaviour
     private float jumpingPower = 16f;
     private bool isFacingRight = true;
 
+    public SpriteRenderer SpriteRenderer;
+
+    public Sprite Standing;
+    public Sprite Crouching;
+
+    public BoxCollider2D Collider;
+
+    public Vector2 StandingSize;
+    public Vector2 CrouchingSize;
 
 
 
@@ -15,6 +24,13 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
 
+    void Start()
+    {
+        SpriteRenderer = GetComponent<SpriteRenderer>();
+        SpriteRenderer.sprite = Standing;
+
+        StandingSize = Collider.size;
+    }
 
     void Update()
     {
@@ -34,6 +50,19 @@ public class PlayerMovement : MonoBehaviour
 
 
         Flip();
+
+        if ( Input.GetKeyDown(KeyCode.S))
+        {
+            SpriteRenderer.sprite = Crouching;
+            Collider.size = CrouchingSize;
+        }
+
+        if ( Input.GetKeyUp(KeyCode.S))
+        {
+            SpriteRenderer.sprite = Standing;
+            Collider.size = StandingSize;
+        }
+
     }
 
 
