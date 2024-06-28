@@ -22,7 +22,7 @@ public class Spawner : MonoBehaviour
         if (timeUntilObstacleSpawn >= obstacleSpawnTime)
         {
             Spawn();
-            timeUntilObstacleSpawn =0f;
+            timeUntilObstacleSpawn = 0f;
         }
     }
 
