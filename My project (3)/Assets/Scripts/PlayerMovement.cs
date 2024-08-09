@@ -1,3 +1,5 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 
@@ -17,6 +19,8 @@ public class PlayerMovement : MonoBehaviour
 
     public Vector2 StandingSize;
     public Vector2 CrouchingSize;
+
+    public Animator animator;
 
 
 
