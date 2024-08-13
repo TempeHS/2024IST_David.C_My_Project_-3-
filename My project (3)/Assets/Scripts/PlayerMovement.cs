@@ -23,7 +23,6 @@ public class PlayerMovement : MonoBehaviour
     public Animator animator;
 
 
-
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
@@ -38,6 +37,9 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
+        animator.SetFloat("Speed", Mathf.Abs(horizontal));
+        
+
         horizontal = Input.GetAxisRaw("Horizontal");
 
 
