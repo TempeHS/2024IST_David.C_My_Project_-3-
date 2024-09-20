@@ -22,6 +22,9 @@ public class PlayerMovement : MonoBehaviour
 
     public Animator animator;
 
+    private Vector3 respawnPoint;
+    public GameObject fallDetector;
+
 
 
     [SerializeField] private Rigidbody2D rb;
@@ -34,6 +37,8 @@ public class PlayerMovement : MonoBehaviour
         SpriteRenderer.sprite = Standing;
 
         StandingSize = Collider.size;
+
+        respawnPoint = transform.position;
     }
 
     void Update()
@@ -103,5 +108,12 @@ public class PlayerMovement : MonoBehaviour
             Destroy(other.gameObject);
             
         }
+         if(other.gameObject.CompareTag ("FallDetector"))
+        {
+            transform.position = respawnPoint;
+        }
     }
+
+
+  
 }
