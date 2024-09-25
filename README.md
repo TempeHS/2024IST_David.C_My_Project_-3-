@@ -19,7 +19,7 @@ My game includes features that talks about
 
 # Walkthrough
 
-[video link]
+[[video link]](https://www.canva.com/design/DAGRvhSCOO4/cSc7mHngKRi0czWL-FgTWA/edit?utm_content=DAGRvhSCOO4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # Movement Controls
 
