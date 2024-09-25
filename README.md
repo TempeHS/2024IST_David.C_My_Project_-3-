@@ -15,11 +15,12 @@
 
 # Overview
 
-My game includes features that talks about
+The Game 'Recovery of the Forest' lets the player immerse themself into a game that reveals the truth behind how the littering from humans leads to the fall of nature.
 
 # Walkthrough
 
 [[video link]](https://www.canva.com/design/DAGRvhSCOO4/cSc7mHngKRi0czWL-FgTWA/edit?utm_content=DAGRvhSCOO4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 # Movement Controls
 
