@@ -21,7 +21,7 @@ My game includes features that talks about
 
 [video link]
 
-# Tutorials
+# Movement Controls
 
 ![The control scheme of my game for an xbox controller]("https://github.com/Swebwite/My%20project/Assets/Sprites/Control%20Scheme.png")
 
