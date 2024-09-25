@@ -35,4 +35,6 @@ Pictures of scripts
 
 (Oliver) multimedia partner
 [add media examples]
-![CUTSCENE](https://github.com/user-attachments/assets/38cb0413-e1a8-46af-931e-aa5400ec9330)
+## [CUTSCENE](https://github.com/user-attachments/assets/38cb0413-e1a8-46af-931e-aa5400ec9330)
+![!!!!!BACKGROUND NEW!!!!](https://github.com/user-attachments/assets/3ae80f33-5944-4794-8f9d-cf4ff5aa1ee7)
+
