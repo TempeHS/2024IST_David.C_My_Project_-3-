@@ -40,11 +40,11 @@ Pictures of scripts
 
 <img src="https://github.com/user-attachments/assets/38cb0413-e1a8-46af-931e-aa5400ec9330" width="300" height="150" />
 
-<img src="https://github.com/user-attachments/assets/3ad66e7b-f333-403c-afd3-5e13b7fdc455" width="500" height="500" />
+<img src="https://github.com/user-attachments/assets/3ad66e7b-f333-403c-afd3-5e13b7fdc455" width="300" height="300" />
 
-<img src="https://github.com/user-attachments/assets/9a0579a2-d9b6-4490-9e2c-dc5e47d0baca" width="300" height="500" />
+<img src="https://github.com/user-attachments/assets/9a0579a2-d9b6-4490-9e2c-dc5e47d0baca" width="500" height="500" />
 
-<img src="https://github.com/user-attachments/assets/6edfee03-dae1-472e-95a1-0748e7362298" width="300" height="300" />
+<img src="https://github.com/user-attachments/assets/6edfee03-dae1-472e-95a1-0748e7362298" width="500" height="500" />
 
 <img src="https://github.com/user-attachments/assets/55beb5d6-4753-4bd9-bb7c-5f0c303f7ec4" width="300" height="300" />
 
