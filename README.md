@@ -24,7 +24,7 @@ The Game 'Recovery of the Forest' lets the player immerse themself into a game t
 
 # Movement Controls
 
-![The control scheme of my game for an xbox controller]("[https://www.canva.com/design/DAGRwsg1wg8/X6Vksfk9rIgu_JMHrA81JQ/edit?utm_content=DAGRwsg1wg8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton")
+![The control scheme of my game for an xbox controller]("https://www.canva.com/design/DAGRwsg1wg8/X6Vksfk9rIgu_JMHrA81JQ/edit?utm_content=DAGRwsg1wg8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton")
 
 # Documentation
 
