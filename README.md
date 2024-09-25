@@ -15,7 +15,7 @@
 
 # Overview
 
-yadayada
+My game includes features that talks about
 
 # Walkthrough
 
