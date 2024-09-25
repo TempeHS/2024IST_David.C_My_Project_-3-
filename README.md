@@ -16,6 +16,7 @@
 # Overview
 
 The Game 'Recovery of the Forest' lets the player immerse themself into a game that reveals the truth behind how the littering from humans leads to the fall of nature.
+Pictures of the land
 
 # Walkthrough
 
@@ -27,9 +28,12 @@ The Game 'Recovery of the Forest' lets the player immerse themself into a game t
 
 # Documentation
 
-A little explination on how I made the game and the skills I aquired.
+A little explination on how I made the game and the skills I acquired.
+Pictures of scripts
 
 # Collaboration
 
 (Oliver) multimedia partner
 [add media examples]
+Images from GOogle Drive
+![CUTSCENE](https://github.com/user-attachments/assets/38cb0413-e1a8-46af-931e-aa5400ec9330)
