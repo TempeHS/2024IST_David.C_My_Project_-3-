@@ -45,6 +45,10 @@ Pictures of scripts
 ![(SPRITE) Coin](https://github.com/user-attachments/assets/2f7bff16-fc68-40f6-93d1-cc5055069be7)
 
 <img src="https://github.com/user-attachments/assets/38cb0413-e1a8-46af-931e-aa5400ec9330" width="300" height="150" />
+<img src="https://github.com/user-attachments/assets/3ad66e7b-f333-403c-afd3-5e13b7fdc455" width="300" height="150" />
+<img src="" width="300" height="150" />
+<img src="" width="300" height="150" />
+<img src="" width="300" height="150" />
 
 
 
