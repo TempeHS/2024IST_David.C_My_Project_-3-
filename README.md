@@ -36,5 +36,8 @@ Pictures of scripts
 
 
 ![CUTSCENE](https://github.com/user-attachments/assets/38cb0413-e1a8-46af-931e-aa5400ec9330)
+![(SPRITE) Running Animation Guy](https://github.com/user-attachments/assets/3ad66e7b-f333-403c-afd3-5e13b7fdc455)
 ![!!!!!BACKGROUND NEW!!!!](https://github.com/user-attachments/assets/3ae80f33-5944-4794-8f9d-cf4ff5aa1ee7)
+
+
 
