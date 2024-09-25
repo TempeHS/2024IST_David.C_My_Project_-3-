@@ -35,5 +35,4 @@ Pictures of scripts
 
 (Oliver) multimedia partner
 [add media examples]
-Images from GOogle Drive
 ![CUTSCENE](https://github.com/user-attachments/assets/38cb0413-e1a8-46af-931e-aa5400ec9330)
