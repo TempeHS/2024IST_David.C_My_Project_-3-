@@ -25,15 +25,6 @@ The central theme of "Recovery of the Forest" is the impact of human activity on
 In "Recovery of the Forest," players experience a journey that’s not just about gameplay, but also about learning how small actions, like cleaning up litter, can significantly impact the environment.
 
 
-
-
-
-
-
-
-
-
-
 # Walkthrough
 
 [[video link]](https://www.canva.com/design/DAGRvhSCOO4/cSc7mHngKRi0czWL-FgTWA/edit?utm_content=DAGRvhSCOO4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
@@ -44,13 +35,23 @@ In "Recovery of the Forest," players experience a journey that’s not just abou
 
 # Documentation
 
-A little explination on how I made the game and the skills I acquired.
-Pictures of scripts
+I made the game "Recovery of the Forest" by involving the game as a platformer focusing on both visual storytelling and environmental awareness. I used a game development platform to build the levels, incorporating movement mechanics such as jumping and crouching. I also implemented collision detection to ensure the player could interact with platforms and obstacles smoothly.
+
+During the process, I have also learnt a variety of skills such as:
+
+Fundamental Basics of Game Development: I learned how to structure a 2D platformer, using sprites and backgrounds to create an engaging game environment.
+
+Scripting or coding: I gained experience in writing scripts to control player movements, level progression, and environmental interactions.
+
+How to use sprites in a game: I enhanced my understanding of visual design, ensuring the art style matched the game’s environmental theme, and improving my skills in creating custom sprites and backgrounds.
+
+Problem-Solving: Debugging and refining the gameplay helped me develop strong problem-solving skills, as I tackled challenges such as level design, obstacle placement, and player feedback.
+Below are pictures of scripts/codes that I have written whilst creating the game
+
 ![Screenshot 2024-09-26 130546 (1)](https://github.com/user-attachments/assets/a18038f6-d95a-409e-86b7-8df22657786e)
 ![Screenshot 2024-09-26 130607 (1)](https://github.com/user-attachments/assets/aee5f239-7fe7-44f9-9a9d-752d333f2f3e)
 ![Screenshot 2024-09-26 130522 (1)](https://github.com/user-attachments/assets/7c6c018d-82bb-473f-8fbe-58315220f5e6)
 ![Screenshot 2024-09-26 130054 (1)](https://github.com/user-attachments/assets/0f341cba-de38-41fa-a6b0-6c1efc481703)
-
 ![Screenshot 2024-09-26 130428](https://github.com/user-attachments/assets/e3ccc884-5db3-44a2-ae5a-a003a271e13c)
 
 
