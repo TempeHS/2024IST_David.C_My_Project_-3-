@@ -19,7 +19,7 @@ The Game 'Recovery of the Forest' lets the player immerse themself into a game t
 Pictures of the land
 
 ![Screenshot 2024-09-26 125952](https://github.com/user-attachments/assets/7096863e-d400-4416-b6d4-f89580beb034)
-<img width="1191" alt="Screen Shot 2024-09-25 at 8 43 40 pm" src="https://github.com/user-attachments/assets/7096863e-d400-4416-b6d4-f89580beb034">
+
 # Walkthrough
 
 [[video link]](https://www.canva.com/design/DAGRvhSCOO4/cSc7mHngKRi0czWL-FgTWA/edit?utm_content=DAGRvhSCOO4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
