@@ -9,7 +9,7 @@
 
 1. [Overview](https://github.com/TempeHS/2024IST_David.C_?tab=readme-ov-file#overview)
 2. [Walkthrough](https://github.com/TempeHS/2024IST_David.C_?tab=readme-ov-file#walkthrough)
-3. [Game Movement](https://github.com/TempeHS/2024IST_David.C_?tab=readme-ov-file#tutorials)
+3. [Game Movement](https://github.com/TempeHS/2024IST_David.C_?tab=readme-ov-file#game-movement)
 4. [Documentation](https://github.com/TempeHS/2024IST_David.C_?tab=readme-ov-file#documentation)
 5. [Collaboration](https://github.com/TempeHS/2024IST_David.C_?tab=readme-ov-file#collaboration)
 
