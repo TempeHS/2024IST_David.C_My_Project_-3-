@@ -46,6 +46,7 @@ Scripting or coding: I gained experience in writing scripts to control player mo
 How to use sprites in a game: I enhanced my understanding of visual design, ensuring the art style matched the game’s environmental theme, and improving my skills in creating custom sprites and backgrounds.
 
 Problem-Solving: Debugging and refining the gameplay helped me develop strong problem-solving skills, as I tackled challenges such as level design, obstacle placement, and player feedback.
+
 Below are pictures of scripts/codes that I have written whilst creating the game
 
 ![Screenshot 2024-09-26 130546 (1)](https://github.com/user-attachments/assets/a18038f6-d95a-409e-86b7-8df22657786e)
