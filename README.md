@@ -14,14 +14,22 @@
 5. [Collaboration](https://github.com/TempeHS/2024IST_David.C_?tab=readme-ov-file#collaboration)
 
 # Overview
+"Recovery of the Forest" is a platformer that blends simple mechanics with a powerful environmental message. The game invites players to immerse themselves in a vibrant but fragile world threatened by human activities, specifically littering. Players navigate through forested levels, jumping between platforms and avoiding obstacles, as they work towards restoring balance to nature.
 
-The Game 'Recovery of the Forest' lets the player immerse themself into a game that reveals the truth behind how the littering from humans leads to the fall of nature.
-Pictures of the land
+<img width="1191" alt="Screen Shot 2024-09-25 at 8 43 40 pm" src="https://github.com/user-attachments/assets/90c5a7d5-39d0-4631-8bd9-739e6647644f">
 
+The central theme of "Recovery of the Forest" is the impact of human activity on the environment. By guiding the player through a world affected by litter and pollution, the game aims to raise awareness about the importance of protecting nature. As players advance, they uncover deeper truths behind the ecological crisis and the role they can play in reversing it.
 
 ![Screenshot 2024-09-26 125952](https://github.com/user-attachments/assets/f608bc4d-23ce-4ace-b884-1ef86624d272)
 
-<img width="1191" alt="Screen Shot 2024-09-25 at 8 43 40 pm" src="https://github.com/user-attachments/assets/90c5a7d5-39d0-4631-8bd9-739e6647644f">
+In "Recovery of the Forest," players experience a journey that’s not just about gameplay, but also about learning how small actions, like cleaning up litter, can significantly impact the environment.
+
+
+
+
+
+
+
 
 
 
