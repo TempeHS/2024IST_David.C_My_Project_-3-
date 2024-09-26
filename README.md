@@ -56,8 +56,7 @@ Below are pictures of scripts/codes that I have written whilst creating the game
 ![Screenshot 2024-09-26 130428](https://github.com/user-attachments/assets/e3ccc884-5db3-44a2-ae5a-a003a271e13c)
 
 
-# Collaboration 
-## Partner: Oliver Magion
+# Collaboration Partner: Oliver Magion
 
 
 ![!!!!!BACKGROUND NEW!!!!](https://github.com/user-attachments/assets/3ae80f33-5944-4794-8f9d-cf4ff5aa1ee7)
