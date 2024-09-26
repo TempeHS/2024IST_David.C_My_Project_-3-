@@ -42,7 +42,7 @@ Pictures of scripts
 ![Screenshot 2024-09-26 130607 (1)](https://github.com/user-attachments/assets/aee5f239-7fe7-44f9-9a9d-752d333f2f3e)
 ![Screenshot 2024-09-26 130522 (1)](https://github.com/user-attachments/assets/7c6c018d-82bb-473f-8fbe-58315220f5e6)
 ![Screenshot 2024-09-26 130054 (1)](https://github.com/user-attachments/assets/0f341cba-de38-41fa-a6b0-6c1efc481703)
-![Screenshot 2024-09-26 130054 (1)](https://github.com/user-attachments/assets/94a493ef-85a2-4d49-8db9-1bcb3f57eba7)
+
 ![Screenshot 2024-09-26 130428](https://github.com/user-attachments/assets/e3ccc884-5db3-44a2-ae5a-a003a271e13c)
 
 
