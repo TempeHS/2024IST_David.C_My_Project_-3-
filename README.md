@@ -21,7 +21,8 @@ Pictures of the land
 
 
 <img width="1191" alt="Screen Shot 2024-09-25 at 8 43 40 pm" src="https://github.com/user-attachments/assets/90c5a7d5-39d0-4631-8bd9-739e6647644f">
-<img width="1191" alt="Screen Shot 2024-09-25 at 8 43 40 pm" src="hhttps://github.com/user-attachments/assets/7096863e-d400-4416-b6d4-f89580beb034">
+
+<img width="1191" alt="Screen Shot 2024-09-25 at 8 43 41 pm" src="hhttps://github.com/user-attachments/assets/7096863e-d400-4416-b6d4-f89580beb034">
 
 
 # Walkthrough
