@@ -18,10 +18,8 @@
 The Game 'Recovery of the Forest' lets the player immerse themself into a game that reveals the truth behind how the littering from humans leads to the fall of nature.
 Pictures of the land
 
-<img src= "https://mail.google.com/mail/u/0?ui=2&ik=f401d3e721&attid=0.1&permmsgid=msg-a:r8723686642307397913&th=1922c4bb090f4482&view=att&disp=safe&realattid=f_m1ipqaqt0" />
-https://mail.google.com/mail/u/0?ui=2&ik=f401d3e721&attid=0.3&permmsgid=msg-a:r8723686642307397913&th=1922c4bb090f4482&view=att&disp=safe&realattid=f_m1ipqar41
 ![Screenshot 2024-09-26 125952](https://github.com/user-attachments/assets/7096863e-d400-4416-b6d4-f89580beb034)
-
+<img width="1191" alt="Screen Shot 2024-09-25 at 8 43 40 pm" src="https://github.com/user-attachments/assets/7096863e-d400-4416-b6d4-f89580beb034">
 # Walkthrough
 
 [[video link]](https://www.canva.com/design/DAGRvhSCOO4/cSc7mHngKRi0czWL-FgTWA/edit?utm_content=DAGRvhSCOO4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
