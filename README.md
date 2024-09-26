@@ -9,7 +9,7 @@
 
 1. [Overview](https://github.com/TempeHS/2024IST_David.C_?tab=readme-ov-file#overview)
 2. [Walkthrough](https://github.com/TempeHS/2024IST_David.C_?tab=readme-ov-file#walkthrough)
-3. [Movement Controls](https://github.com/TempeHS/2024IST_David.C ?tab=readme-ov-file#movement controls)
+3. [Movement Controls](https://github.com/TempeHS/2024IST_David.C_?tab=readme-ov-file#tutorials)
 4. [Documentation](https://github.com/TempeHS/2024IST_David.C_?tab=readme-ov-file#documentation)
 5. [Collaboration](https://github.com/TempeHS/2024IST_David.C_?tab=readme-ov-file#collaboration)
 
@@ -30,7 +30,7 @@ In "Recovery of the Forest," players experience a journey that’s not just abou
 [[video link]](https://www.canva.com/design/DAGRvhSCOO4/cSc7mHngKRi0czWL-FgTWA/edit?utm_content=DAGRvhSCOO4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
-# Movement Controls
+# Tutorials
 <img width="1191" alt="Screen Shot 2024-09-25 at 8 43 40 pm" src="https://github.com/user-attachments/assets/d0b01a82-5e27-42ad-8041-90d2c16cb592">
 
 # Documentation
@@ -56,7 +56,7 @@ Below are pictures of scripts/codes that I have written whilst creating the game
 ![Screenshot 2024-09-26 130428](https://github.com/user-attachments/assets/e3ccc884-5db3-44a2-ae5a-a003a271e13c)
 
 
-# Collaboration Partner: Oliver Magion
+# Collaboration
 
 
 ![!!!!!BACKGROUND NEW!!!!](https://github.com/user-attachments/assets/3ae80f33-5944-4794-8f9d-cf4ff5aa1ee7)
