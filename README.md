@@ -11,7 +11,7 @@
 2. [Walkthrough](https://github.com/TempeHS/2024IST_David.C_?tab=readme-ov-file#walkthrough)
 3. [Game Movement](https://github.com/TempeHS/2024IST_David.C_?tab=readme-ov-file#game-movement)
 4. [Documentation](https://github.com/TempeHS/2024IST_David.C_?tab=readme-ov-file#documentation)
-5. [Collaboration](https://github.com/TempeHS/2024IST_David.C_?tab=readme-ov-file#collaboration)
+5. [Collaboration](https://github.com/TempeHS/2024IST_David.C_?tab=readme-ov-file#collaboration-partner-oliver-mangion)
 
 # Overview
 "Recovery of the Forest" is a platformer that blends simple mechanics with a powerful environmental message. The game invites players to immerse themselves in a vibrant but fragile world threatened by human activities, specifically littering. Players navigate through forested levels, jumping between platforms and avoiding obstacles, as they work towards restoring balance to nature.
