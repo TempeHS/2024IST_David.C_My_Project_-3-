@@ -38,6 +38,13 @@ Pictures of the land
 
 A little explination on how I made the game and the skills I acquired.
 Pictures of scripts
+![Screenshot 2024-09-26 130522](https://github.com/user-attachments/assets/48fed0e5-99d5-4c5b-9266-2cacd4dbb635)
+![Screenshot 2024-09-26 130607](https://github.com/user-attachments/assets/e3476f42-effd-483e-a5a2-4eefae267103)
+![Screenshot 2024-09-26 130546](https://github.com/user-attachments/assets/fde079b9-835f-4172-80d3-d83b4aecfda8)
+![Screenshot 2024-09-26 130534](https://github.com/user-attachments/assets/6a7748b4-3846-44bb-9610-0cd09a8e38a6)
+![Screenshot 2024-09-26 130522](https://github.com/user-attachments/assets/c0d8e209-f093-4326-9db7-3a0fc723f4f2)
+![Screenshot 2024-09-26 130607](https://github.com/user-attachments/assets/e5ab1294-004d-4e56-ab04-30909620d1df)
+![Screenshot 2024-09-26 130534](https://github.com/user-attachments/assets/68f4695f-82ac-4380-95e7-335353883a55)
 
 # Collaboration 
 ## Partner: Oliver Magion
