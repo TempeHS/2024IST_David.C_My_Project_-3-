@@ -26,8 +26,9 @@ In "Recovery of the Forest," players experience a journey that’s not just abou
 
 
 # Walkthrough
+https://github.com/user-attachments/assets/8b441337-6cb7-4984-86ea-2b24a6a7e09c
 
-[[video link]](https://www.canva.com/design/DAGRvhSCOO4/cSc7mHngKRi0czWL-FgTWA/edit?utm_content=DAGRvhSCOO4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 
 # Game Movement
